@@ -1,3 +1,5 @@
+runs-on: self-hosted
+
 install-packages:
   stage: install packages
   script:
