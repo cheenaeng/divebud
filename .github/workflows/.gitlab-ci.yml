@@ -32,4 +32,4 @@ deploy:
     changesets:
       includePaths:
         - package.json
-  environment: production
+
